@@ -12,7 +12,7 @@ def hello_world2():
     return "Hello, Sungshin2!"
 
 @app.route("/bye")
-def hello_world3):
+def hello_world3():
     return "bye- bye"
 
 if __name__ == "__main__":
